@@ -1,0 +1,305 @@
+[{
+  "_id": {
+    "$oid": "664709ce3698d5460c7422fc"
+  },
+  "firstName": "Muhammad Irfan",
+  "lastName": "Al Rasyid",
+  "rekening": "1212121212121",
+  "nik": "3276022717010002",
+  "totalPrice": "Rp 14.200,00",
+  "action": "Transfered",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66470a443698d5460c7422fe"
+  },
+  "firstName": "Muhammad Irfan",
+  "lastName": "Al Rasyid",
+  "rekening": "1212121212121",
+  "nik": "3276022717010002",
+  "totalPrice": "Rp 14.200,00",
+  "action": "Proses",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6647187cd8e5bcb783692055"
+  },
+  "firstName": "Muhammad Irfan",
+  "lastName": "Al Rasyid",
+  "rekening": "1212121212121",
+  "nik": "3276022717010002",
+  "totalPrice": "Rp 14.200,00",
+  "action": "Transfered",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664718fed8e5bcb783692059"
+  },
+  "firstName": "Muhammad Irfan",
+  "lastName": "Al Rasyid",
+  "rekening": "1212121212121",
+  "nik": "3276022717010002",
+  "totalPrice": "Rp 14.200,00",
+  "action": "Transfered",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66471a00d6327bd4b2822158"
+  },
+  "firstName": "Muhammad Irfan",
+  "lastName": "Al Rasyid",
+  "rekening": "1212121212121",
+  "nik": "3276022717010002",
+  "totalPrice": "Rp 14.200,00",
+  "action": "Transfered",
+  "userId": "6643875f80db824813cdc6f9",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66471ac243b9cc382461ceb0"
+  },
+  "firstName": "Muhammad Irfan",
+  "lastName": "Al Rasyid",
+  "rekening": "1212121212121",
+  "nik": "3276022717010002",
+  "totalPrice": "Rp 14.200,00",
+  "action": "Proses",
+  "userId": "6643875f80db824813cdc6f9",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66471f4843b9cc382461cec4"
+  },
+  "firstName": "Muhammad Irfan",
+  "lastName": "Al Rasyid",
+  "rekening": "13131313131313",
+  "nik": "3276022717010002",
+  "totalPrice": "Rp 54.300,00",
+  "action": "Proses",
+  "userId": "6643875f80db824813cdc6f9",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66471fb243b9cc382461ced0"
+  },
+  "firstName": "Muhammad Irfan",
+  "lastName": "Al Rasyid",
+  "rekening": "13131313131313",
+  "nik": "3276022717010002",
+  "totalPrice": "Rp 54.300,00",
+  "action": "Transfered",
+  "userId": "6643875f80db824813cdc6f9",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66471fd643b9cc382461ced6"
+  },
+  "firstName": "Muhammad Irfan",
+  "lastName": "Al Rasyid",
+  "rekening": "12121212121212121",
+  "nik": "3276022717010002",
+  "totalPrice": "Rp 14.200,00",
+  "action": "reject",
+  "userId": "6643875f80db824813cdc6f9",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66472e33b0b41c96a2ab07d5"
+  },
+  "firstName": "Muhammad Irfan",
+  "lastName": "Al Rasyid",
+  "rekening": "1212121212121",
+  "nik": "3276022717010002",
+  "totalPrice": "Rp 14.200,00",
+  "action": "Transfered",
+  "userId": "6643875f80db824813cdc6f9",
+  "createdAt": {
+    "$date": "2024-05-17T10:15:15.541Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66472e95340afa11d43b5ee9"
+  },
+  "firstName": "Muhammad Irfan",
+  "lastName": "Al Rasyid",
+  "rekening": "12121212121212121",
+  "nik": "3276022717010002",
+  "totalPrice": "Rp 14.200,00",
+  "action": "Proses",
+  "userId": "6643875f80db824813cdc6f9",
+  "createdAt": {
+    "$date": "2024-05-17T10:16:53.650Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6652e5eb4f770e7f553492c9"
+  },
+  "firstName": "Muhammad Irfan",
+  "lastName": "Al Rasyid",
+  "rekening": "3232323232323232",
+  "nik": "3276022717010002",
+  "totalPrice": "Rp 20.000,00",
+  "action": "Proses",
+  "userId": "6652da294f770e7f55349262",
+  "createdAt": {
+    "$date": "2024-05-26T07:34:03.333Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665da251502fe37ed959781c"
+  },
+  "firstName": "Kotake",
+  "lastName": "Fusagi",
+  "rekening": "121212121212",
+  "nik": "3276022717010002",
+  "totalPrice": "Rp 500,00",
+  "action": "Proses",
+  "userId": "665da1d5502fe37ed95977fb",
+  "createdAt": {
+    "$date": "2024-06-03T11:00:33.499Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665da272502fe37ed9597826"
+  },
+  "firstName": "Kotake",
+  "lastName": "Fusagi",
+  "rekening": "121212121212",
+  "nik": "3276022717010002",
+  "totalPrice": "Rp 500,00",
+  "action": "Transfered",
+  "userId": "665da1d5502fe37ed95977fb",
+  "createdAt": {
+    "$date": "2024-06-03T11:01:06.181Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665da272502fe37ed9597828"
+  },
+  "firstName": "Kotake",
+  "lastName": "Fusagi",
+  "rekening": "121212121212",
+  "nik": "3276022717010002",
+  "totalPrice": "Rp 500,00",
+  "action": "Transfered",
+  "userId": "665da1d5502fe37ed95977fb",
+  "createdAt": {
+    "$date": "2024-06-03T11:01:06.393Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665da2f8502fe37ed9597854"
+  },
+  "firstName": "Kotake",
+  "lastName": "Fusagi",
+  "rekening": "121212121221",
+  "nik": "3276022717010002",
+  "totalPrice": "Rp 12.500,00",
+  "action": "Proses",
+  "userId": "665da1d5502fe37ed95977fb",
+  "createdAt": {
+    "$date": "2024-06-03T11:03:20.743Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665dcf40502fe37ed959786a"
+  },
+  "firstName": "Kotake",
+  "lastName": "Fusagi",
+  "rekening": "121212121221",
+  "nik": "3276022717010002",
+  "totalPrice": "Rp 12.500,00",
+  "action": "Transfered",
+  "userId": "665da1d5502fe37ed95977fb",
+  "createdAt": {
+    "$date": "2024-06-03T14:12:16.631Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665dd625502fe37ed959789e"
+  },
+  "firstName": "Kotake",
+  "lastName": "Fusagi",
+  "rekening": "121212121211",
+  "nik": "3276022717010002",
+  "totalPrice": "Rp 13.000,00",
+  "action": "reject",
+  "userId": "665da1d5502fe37ed95977fb",
+  "createdAt": {
+    "$date": "2024-06-03T14:41:41.492Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665e1145502fe37ed9597936"
+  },
+  "firstName": "Kotake",
+  "lastName": "Fusagi",
+  "rekening": "1212121212121",
+  "nik": "3276022717010002",
+  "totalPrice": "Rp 14.800,00",
+  "action": "Proses",
+  "userId": "665da1d5502fe37ed95977fb",
+  "createdAt": {
+    "$date": "2024-06-03T18:53:57.208Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665e115b502fe37ed9597940"
+  },
+  "firstName": "Kotake",
+  "lastName": "Fusagi",
+  "rekening": "1212121212121",
+  "nik": "3276022717010002",
+  "totalPrice": "Rp 14.800,00",
+  "action": "Transfered",
+  "userId": "665da1d5502fe37ed95977fb",
+  "createdAt": {
+    "$date": "2024-06-03T18:54:19.349Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665ff703068fc2e56aa679c4"
+  },
+  "firstName": "Kotake",
+  "lastName": "Fusagi",
+  "rekening": "12121212121212",
+  "nik": "3276022717010002",
+  "totalPrice": "Rp 14.800,00",
+  "action": "Transfered",
+  "userId": "665da1d5502fe37ed95977fb",
+  "createdAt": {
+    "$date": "2024-06-05T05:26:27.203Z"
+  },
+  "__v": 0
+}]

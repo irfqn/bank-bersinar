@@ -1,0 +1,84 @@
+[{
+  "_id": {
+    "$oid": "662db69bf27b25f52a980e86"
+  },
+  "name": "Factory A",
+  "nominal": "1.000.000",
+  "date": {
+    "$date": "2024-07-20T00:00:00.000Z"
+  },
+  "phone": "081802730276",
+  "address": "jl.contoh",
+  "email": "factoryA@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662dbcbee1a41136149933c4"
+  },
+  "name": "Factory A",
+  "nominal": "1.000.000",
+  "date": {
+    "$date": "2024-07-20T00:00:00.000Z"
+  },
+  "phone": "081802730276",
+  "address": "jl.contoh",
+  "email": "factoryA@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662dc0af7bb9503ec3ce9769"
+  },
+  "name": "Factory A",
+  "nominal": "1.000.000",
+  "date": {
+    "$date": "2024-07-20T00:00:00.000Z"
+  },
+  "phone": "081802730276",
+  "address": "jl.contoh",
+  "email": "factoryA@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662dc15d054e16d7c61a67e3"
+  },
+  "name": "Factory A",
+  "nominal": "1.000.000",
+  "date": {
+    "$date": "2024-07-20T00:00:00.000Z"
+  },
+  "phone": "081802730276",
+  "address": "jl.contoh",
+  "email": "factoryA@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662dc1a6ff8b5152e8053967"
+  },
+  "name": "Factory A",
+  "nominal": "1.000.000",
+  "date": {
+    "$date": "2024-07-20T00:00:00.000Z"
+  },
+  "phone": "081802730276",
+  "address": "jl.contoh",
+  "email": "factoryA@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662dc208b8fcaacf7e924153"
+  },
+  "name": "Factory A",
+  "nominal": "1.000.000",
+  "date": {
+    "$date": "2024-07-20T00:00:00.000Z"
+  },
+  "phone": "081802730276",
+  "address": "jl.contoh",
+  "email": "factoryA@gmail.com",
+  "__v": 0
+}]

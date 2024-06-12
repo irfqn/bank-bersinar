@@ -1,0 +1,331 @@
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+body {
+  line-height: 1;
+}
+ol,
+ul {
+  list-style: none;
+}
+blockquote,
+q {
+  quotes: none;
+}
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: "";
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* CSS Reset */
+
+/* Main */
+body {
+  /* background-color: #fff; */
+  background: linear-gradient(to right, #fff 30%, #206a4a);
+  position: relative;
+  overflow: hidden;
+}
+
+.trash {
+  width: 600px;
+  position: absolute;
+  top: 250%;
+  right: 27%;
+  z-index: -999;
+}
+
+.navbar {
+  /* background-color: red; */
+  margin: 0 100px;
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  position: relative;
+}
+
+.logo {
+  width: 100px;
+}
+
+.navbar ul {
+  position: absolute;
+  right: 45%;
+  margin-top: 10px;
+}
+
+.navbar li {
+  display: inline-block;
+}
+
+.navbar li a img {
+  width: 20px;
+  margin-left: 20px;
+}
+
+.login h1 {
+  font-family: "Poppins", sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+  letter-spacing: 0.3px;
+  color: #000;
+  position: absolute;
+  right: 0%;
+}
+
+.main {
+  position: relative;
+}
+
+.kiri h1 {
+  z-index: 2;
+  position: absolute;
+  font-family: "Poppins", sans-serif;
+  color: #206a4a;
+  font-weight: 700;
+  font-size: 65px;
+  width: 400px;
+  letter-spacing: 0.3px;
+  line-height: 60px;
+  left: 100px;
+  top: 30px;
+}
+
+.kiri p {
+  position: absolute;
+  z-index: 3;
+  width: 350px;
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  top: 240px;
+  left: 100px;
+  line-height: 20px;
+  opacity: 0.8;
+}
+
+/* .cAction {
+  position: absolute;
+  z-index: 3;
+  width: 200px;
+  height: 50px;
+  background: #e47222;
+  left: 100px;
+  top: 420px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.cAction a {
+  text-decoration: none;
+  color: white;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-size: 16px;
+} */
+
+.cAction {
+  position: absolute;
+  z-index: 3;
+  background: #e47222;
+  display: inline-block;
+  text-decoration: none;
+  width: 200px;
+  height: 50px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-size: 16px;
+  box-sizing: border-box;
+  border-radius: 20px;
+  top: 420px;
+  left: 100px;
+}
+
+.cAction span {
+  color: white;
+  display: flex;
+  justify-content: center;
+  margin-top: 16px;
+}
+
+.rJudul {
+  position: absolute;
+  z-index: 3;
+  font-family: "Poppins", sans-serif;
+  /* color: #206a4a; */
+  font-weight: 700;
+  font-size: 35px;
+  right: 130px;
+  top: 50px;
+}
+
+.achivment h1 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-size: 40px;
+}
+
+.achivment h2 {
+  font-family: "Poppins", sans-serif;
+  /* font-weight: 300; */
+  font-size: 20px;
+  opacity: 0.6;
+  margin-top: 5px;
+}
+
+.nasabah {
+  position: absolute;
+  z-index: 3;
+  text-align: center;
+  right: 300px;
+  top: 110px;
+}
+
+.unit {
+  position: absolute;
+  z-index: 3;
+  text-align: center;
+  right: 80px;
+  top: 110px;
+}
+
+.unit h2 {
+  width: 150px;
+}
+
+.edukasi {
+  position: absolute;
+  z-index: 3;
+  text-align: center;
+  top: 230px;
+  right: 300px;
+}
+
+.sampah {
+  position: absolute;
+  z-index: 3;
+  text-align: center;
+  top: 230px;
+  right: 60px;
+}
+
+.kanan p {
+  position: absolute;
+  z-index: 3;
+  width: 280px;
+  text-align: right;
+  right: 60px;
+  top: 420px;
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  line-height: 18px;
+  opacity: 0.5;
+}

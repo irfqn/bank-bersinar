@@ -1,0 +1,694 @@
+[{
+  "_id": {
+    "$oid": "664104152206f6c98fd6bc70"
+  },
+  "user": {
+    "$oid": "6603411f93dc9f1bec0912e6"
+  },
+  "totalHarga": 20000,
+  "createdAt": {
+    "$date": "2024-05-12T18:01:57.081Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6641f65f5f4664f213f4f262"
+  },
+  "user": {
+    "$oid": "6603411f93dc9f1bec0912e6"
+  },
+  "totalHarga": 20000,
+  "createdAt": {
+    "$date": "2024-05-13T11:15:43.992Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66421751cd8572be0159c52d"
+  },
+  "user": {
+    "$oid": "6603411f93dc9f1bec0912e6"
+  },
+  "totalHarga": 14200,
+  "createdAt": {
+    "$date": "2024-05-13T13:36:17.141Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6642677220c060242c54f7be"
+  },
+  "user": {
+    "$oid": "6603411f93dc9f1bec0912e6"
+  },
+  "totalHarga": 20000,
+  "createdAt": {
+    "$date": "2024-05-13T19:18:10.702Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6643878680db824813cdc700"
+  },
+  "user": {
+    "$oid": "6643875f80db824813cdc6f9"
+  },
+  "totalHarga": 14200,
+  "createdAt": {
+    "$date": "2024-05-14T15:47:18.519Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6643a48a0a6f9312d41dc9ea"
+  },
+  "user": {
+    "$oid": "6643875f80db824813cdc6f9"
+  },
+  "totalHarga": 14200,
+  "createdAt": {
+    "$date": "2024-05-14T17:51:06.817Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664456b977009f1476e54818"
+  },
+  "user": {
+    "$oid": "6643875f80db824813cdc6f9"
+  },
+  "totalHarga": 20000,
+  "createdAt": {
+    "$date": "2024-05-15T06:31:21.173Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6644922b77009f1476e54877"
+  },
+  "user": {
+    "$oid": "6643875f80db824813cdc6f9"
+  },
+  "totalHarga": 2500,
+  "createdAt": {
+    "$date": "2024-05-15T10:44:59.227Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6647017c196cccc0596d8bb3"
+  },
+  "user": {
+    "$oid": "6643875f80db824813cdc6f9"
+  },
+  "totalHarga": 3400,
+  "createdAt": {
+    "$date": "2024-05-17T07:04:28.974Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66475f5c340afa11d43b5ef7"
+  },
+  "user": {
+    "$oid": "6643875f80db824813cdc6f9"
+  },
+  "totalHarga": 8400,
+  "createdAt": {
+    "$date": "2024-05-17T13:45:00.860Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6649c0ac64b494011a3eedd1"
+  },
+  "user": {
+    "$oid": "6643875f80db824813cdc6f9"
+  },
+  "totalHarga": 12000,
+  "createdAt": {
+    "$date": "2024-05-19T09:04:44.509Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664d78d45ae0d7226c1d348a"
+  },
+  "user": {
+    "$oid": "6643875f80db824813cdc6f9"
+  },
+  "totalHarga": 5000,
+  "createdAt": {
+    "$date": "2024-05-22T04:47:16.094Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664f0cbb5ae0d7226c1d34d0"
+  },
+  "user": {
+    "$oid": "6643875f80db824813cdc6f9"
+  },
+  "totalHarga": 5900,
+  "createdAt": {
+    "$date": "2024-05-23T09:30:35.800Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664f0d185ae0d7226c1d34db"
+  },
+  "user": {
+    "$oid": "6643875f80db824813cdc6f9"
+  },
+  "totalHarga": 20000,
+  "createdAt": {
+    "$date": "2024-05-23T09:32:08.997Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66520f2aecac77d8b0908a58"
+  },
+  "user": {
+    "$oid": "66520ccd8a134517d2be990b"
+  },
+  "totalHarga": 20000,
+  "createdAt": {
+    "$date": "2024-05-25T16:17:46.157Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665212264f770e7f55349225"
+  },
+  "user": {
+    "$oid": "665211bbecac77d8b0908a78"
+  },
+  "totalHarga": 20000,
+  "createdAt": {
+    "$date": "2024-05-25T16:30:30.224Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665212d34f770e7f5534923f"
+  },
+  "user": {
+    "$oid": "665212944f770e7f55349234"
+  },
+  "totalHarga": 20000,
+  "createdAt": {
+    "$date": "2024-05-25T16:33:23.526Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6652f3ff9923633ae1f5682a"
+  },
+  "user": {
+    "$oid": "6652da294f770e7f55349262"
+  },
+  "totalHarga": 20000,
+  "trashClass": [
+    "B8-B9",
+    "B8-B9",
+    "P31-Galon Le-mineral",
+    "P31-Galon Le-mineral",
+    "B8-B9",
+    "B8-B9",
+    "P7 - Tutup Botol-P29"
+  ],
+  "createdAt": {
+    "$date": "2024-05-26T08:34:07.723Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6652f4829923633ae1f5682f"
+  },
+  "user": {
+    "$oid": "6652da294f770e7f55349262"
+  },
+  "totalHarga": 20000,
+  "trashClass": [
+    "B8-B9",
+    "B8-B9",
+    "P31-Galon Le-mineral",
+    "P31-Galon Le-mineral",
+    "B8-B9",
+    "B8-B9",
+    "P7 - Tutup Botol-P29"
+  ],
+  "createdAt": {
+    "$date": "2024-05-26T08:36:18.646Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6652f5739923633ae1f56834"
+  },
+  "user": {
+    "$oid": "6652da294f770e7f55349262"
+  },
+  "totalHarga": 20000,
+  "trashClass": [
+    "B8-B9",
+    "B8-B9",
+    "P31-Galon Le-mineral",
+    "P31-Galon Le-mineral",
+    "B8-B9",
+    "B8-B9",
+    "P7 - Tutup Botol-P29"
+  ],
+  "createdAt": {
+    "$date": "2024-05-26T08:40:19.559Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665322360865a1530c54d7c1"
+  },
+  "user": {
+    "$oid": "6652da294f770e7f55349262"
+  },
+  "totalHarga": 20000,
+  "trashClass": [
+    "B8-B9",
+    "B8-B9",
+    "P31-Galon Le-mineral",
+    "P31-Galon Le-mineral",
+    "B8-B9",
+    "B8-B9",
+    "P7 - Tutup Botol-P29"
+  ],
+  "createdAt": {
+    "$date": "2024-05-26T11:51:18.900Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654245df79ba52c333f0ae9"
+  },
+  "user": {
+    "$oid": "6643875f80db824813cdc6f9"
+  },
+  "totalHarga": 20000,
+  "trashClass": [
+    "B8-B9",
+    "B8-B9",
+    "P31-Galon Le-mineral",
+    "P31-Galon Le-mineral",
+    "B8-B9",
+    "B8-B9",
+    "P7 - Tutup Botol-P29"
+  ],
+  "createdAt": {
+    "$date": "2024-05-27T06:12:45.325Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654246ff79ba52c333f0aeb"
+  },
+  "user": {
+    "$oid": "6643875f80db824813cdc6f9"
+  },
+  "totalHarga": 2500,
+  "trashClass": [
+    "P17-P34-P37-Kemasan"
+  ],
+  "createdAt": {
+    "$date": "2024-05-27T06:13:03.975Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665424d1f79ba52c333f0afc"
+  },
+  "user": {
+    "$oid": "6643875f80db824813cdc6f9"
+  },
+  "totalHarga": 20000,
+  "trashClass": [
+    "B8-B9",
+    "B8-B9",
+    "P31-Galon Le-mineral",
+    "P31-Galon Le-mineral",
+    "B8-B9",
+    "B8-B9",
+    "P7 - Tutup Botol-P29"
+  ],
+  "createdAt": {
+    "$date": "2024-05-27T06:14:41.363Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665427c5f79ba52c333f0b11"
+  },
+  "user": {
+    "$oid": "6643875f80db824813cdc6f9"
+  },
+  "totalHarga": 12000,
+  "trashClass": [
+    "P12-Mix. BM- Bening-P14",
+    "P12-Mix. BM- Bening-P14",
+    "B8-B9"
+  ],
+  "createdAt": {
+    "$date": "2024-05-27T06:27:17.129Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665429adf79ba52c333f0b2f"
+  },
+  "user": {
+    "$oid": "6643875f80db824813cdc6f9"
+  },
+  "totalHarga": 20000,
+  "trashClass": [
+    "B8-B9",
+    "B8-B9",
+    "P31-Galon Le-mineral",
+    "P31-Galon Le-mineral",
+    "B8-B9",
+    "B8-B9",
+    "P7 - Tutup Botol-P29"
+  ],
+  "createdAt": {
+    "$date": "2024-05-27T06:35:25.039Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665429e8f79ba52c333f0b3b"
+  },
+  "user": {
+    "$oid": "6643875f80db824813cdc6f9"
+  },
+  "totalHarga": 5800,
+  "trashClass": [
+    "B8-B9",
+    "P5",
+    "P38-P39"
+  ],
+  "createdAt": {
+    "$date": "2024-05-27T06:36:24.572Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66542c5cf79ba52c333f0b51"
+  },
+  "user": {
+    "$oid": "6643875f80db824813cdc6f9"
+  },
+  "totalHarga": 5000,
+  "trashClass": [
+    "P38-P39",
+    "P38-P39"
+  ],
+  "createdAt": {
+    "$date": "2024-05-27T06:46:52.946Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66542cd2f79ba52c333f0b5d"
+  },
+  "user": {
+    "$oid": "6643875f80db824813cdc6f9"
+  },
+  "totalHarga": 7000,
+  "trashClass": [
+    "B8-B9",
+    "P12-Mix. BM- Bening-P14"
+  ],
+  "createdAt": {
+    "$date": "2024-05-27T06:48:50.848Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66542d1cf79ba52c333f0b69"
+  },
+  "user": {
+    "$oid": "6643875f80db824813cdc6f9"
+  },
+  "totalHarga": 7000,
+  "trashClass": [
+    "P12-Mix. BM- Bening-P14",
+    "B8-B9"
+  ],
+  "createdAt": {
+    "$date": "2024-05-27T06:50:04.106Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66542d34f79ba52c333f0b75"
+  },
+  "user": {
+    "$oid": "6643875f80db824813cdc6f9"
+  },
+  "totalHarga": 5000,
+  "trashClass": [
+    "P12-Mix. BM- Bening-P14"
+  ],
+  "createdAt": {
+    "$date": "2024-05-27T06:50:28.173Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654399df79ba52c333f0ba5"
+  },
+  "user": {
+    "$oid": "6643875f80db824813cdc6f9"
+  },
+  "totalHarga": 4500,
+  "trashClass": [
+    "B8-B9",
+    "P17-P34-P37-Kemasan"
+  ],
+  "createdAt": {
+    "$date": "2024-05-27T07:43:25.032Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66543ec4f79ba52c333f0bb3"
+  },
+  "user": {
+    "$oid": "6643875f80db824813cdc6f9"
+  },
+  "totalHarga": 5000,
+  "trashClass": [
+    "P12-Mix. BM- Bening-P14"
+  ],
+  "createdAt": {
+    "$date": "2024-05-27T08:05:24.021Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66544472f79ba52c333f0bed"
+  },
+  "user": {
+    "$oid": "6643875f80db824813cdc6f9"
+  },
+  "totalHarga": 2000,
+  "trashClass": [
+    "B8-B9"
+  ],
+  "createdAt": {
+    "$date": "2024-05-27T08:29:38.540Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665448ccf79ba52c333f0c09"
+  },
+  "user": {
+    "$oid": "6643875f80db824813cdc6f9"
+  },
+  "totalHarga": 2500,
+  "trashClass": [
+    "P38-P39"
+  ],
+  "createdAt": {
+    "$date": "2024-05-27T08:48:12.204Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6656cb9b33ad5f73ad276b13"
+  },
+  "user": {
+    "$oid": "6643875f80db824813cdc6f9"
+  },
+  "totalHarga": 6000,
+  "trashClass": [
+    "P12-Mix. BM- Bening-P14",
+    "Mika"
+  ],
+  "createdAt": {
+    "$date": "2024-05-29T06:30:51.844Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665da20b502fe37ed9597808"
+  },
+  "user": {
+    "$oid": "665da1d5502fe37ed95977fb"
+  },
+  "totalHarga": 500,
+  "trashClass": [
+    "P17-P34-P37-Kemasan"
+  ],
+  "createdAt": {
+    "$date": "2024-06-03T10:59:23.870Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665da2c1502fe37ed9597834"
+  },
+  "user": {
+    "$oid": "665da1d5502fe37ed95977fb"
+  },
+  "totalHarga": 4000,
+  "trashClass": [
+    "P22-P23",
+    "P22-P23"
+  ],
+  "createdAt": {
+    "$date": "2024-06-03T11:02:25.713Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665da2c2502fe37ed9597836"
+  },
+  "user": {
+    "$oid": "665da1d5502fe37ed95977fb"
+  },
+  "totalHarga": 4000,
+  "trashClass": [
+    "P22-P23",
+    "P22-P23"
+  ],
+  "createdAt": {
+    "$date": "2024-06-03T11:02:26.719Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665da2c2502fe37ed9597838"
+  },
+  "user": {
+    "$oid": "665da1d5502fe37ed95977fb"
+  },
+  "totalHarga": 4000,
+  "trashClass": [
+    "P22-P23",
+    "P22-P23"
+  ],
+  "createdAt": {
+    "$date": "2024-06-03T11:02:26.933Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665dd324502fe37ed959787e"
+  },
+  "user": {
+    "$oid": "665da1d5502fe37ed95977fb"
+  },
+  "totalHarga": 500,
+  "trashClass": [
+    "Kemasan Obat"
+  ],
+  "createdAt": {
+    "$date": "2024-06-03T14:28:52.249Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665e10e5502fe37ed959790a"
+  },
+  "user": {
+    "$oid": "665da1d5502fe37ed95977fb"
+  },
+  "totalHarga": 1800,
+  "trashClass": [
+    "S1-A3"
+  ],
+  "createdAt": {
+    "$date": "2024-06-03T18:52:21.783Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665ff804068fc2e56aa679de"
+  },
+  "user": {
+    "$oid": "665da1d5502fe37ed95977fb"
+  },
+  "totalHarga": 10350,
+  "trashClass": [
+    "P12-Mix. BM- Bening-P14",
+    "P12-Mix. BM- Bening-P14",
+    "B8-B9",
+    "P7 - Tutup Botol-P29"
+  ],
+  "createdAt": {
+    "$date": "2024-06-05T05:30:44.332Z"
+  },
+  "__v": 0
+}]
